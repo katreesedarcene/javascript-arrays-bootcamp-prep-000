@@ -39,7 +39,7 @@ function destructivelyAddElementToEndOfArray(array,element) {
 }
 
 function accessElementInArray(array, index) {
-  return [3, index]
+  return [array, index]
 }
 
 
