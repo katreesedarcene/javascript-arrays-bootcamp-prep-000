@@ -42,6 +42,7 @@ function accessElementInArray(array, index) {
   return 3
 }
 
+function destructivelyRemoveElementFromBeginningOfArray {
 
 
 
