@@ -24,7 +24,7 @@ var cities = ["New York", "San Francisco"];
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
-  return array.unshift(2)
+  return array.unshift('foo')
   
 }
 
