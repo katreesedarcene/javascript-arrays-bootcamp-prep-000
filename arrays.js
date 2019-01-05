@@ -29,9 +29,9 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   
 }
 
-function 
-
-
+function addElementToEndofArray(array, element) {
+  return [element, array.push]
+}
 
 
 
