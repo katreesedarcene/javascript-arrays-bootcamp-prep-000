@@ -25,9 +25,10 @@ var cities = ["New York", "San Francisco"];
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
   return [element, ...array]
+  
 }
 
-const array = [1]
+
 
 
 
