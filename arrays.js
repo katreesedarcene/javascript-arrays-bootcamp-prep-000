@@ -51,7 +51,7 @@ function removeElementFromBeginningOfArray(array) {
    return array.slice(1, 4)
    
 }
-function 
+function destructively
 
 
 
