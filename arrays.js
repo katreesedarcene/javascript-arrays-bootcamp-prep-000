@@ -27,10 +27,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return [element, ...array]
 }
 
-function destuctivelyAddElementToBeginningOfArray(array, element) {
-  return []
-}
- 
+
 
 
 
